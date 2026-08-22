@@ -39,8 +39,8 @@ Teams were explicitly told **not** to submit:
 
 | Brief requirement | Where we address it |
 |---|---|
-| One enterprise-level change (not a bundle of small fixes) | [`case_study/01_problem.md`](../../case_study/01_problem.md) - a single structural bottleneck (title-based authority), not a list of features |
-| Not AI-only / not automation | [`case_study/03_solution_design.md`](../../case_study/03_solution_design.md) - AI recommends and routes; it never decides |
-| Operating model shown in practice (roles, processes, governance, adoption) | [`case_study/04_operating_model.md`](../../case_study/04_operating_model.md) |
-| Quantified business impact | [`case_study/05_impact_and_metrics.md`](../../case_study/05_impact_and_metrics.md) - framed honestly as projected, pilot-validated impact |
-| Risks and mitigations | [`case_study/06_risks_and_rollout.md`](../../case_study/06_risks_and_rollout.md) |
+| One enterprise-level change (not a bundle of small fixes) | [`case_study/01_problem.md`](case_study/01_problem.md) - a single structural bottleneck (title-based authority), not a list of features |
+| Not AI-only / not automation | [`case_study/03_solution_design.md`](case_study/03_solution_design.md) - AI recommends and routes; it never decides |
+| Operating model shown in practice (roles, processes, governance, adoption) | [`case_study/04_operating_model.md`](case_study/04_operating_model.md) |
+| Quantified business impact | [`case_study/05_impact_and_metrics.md`](case_study/05_impact_and_metrics.md) - framed honestly as projected, pilot-validated impact |
+| Risks and mitigations | [`case_study/06_risks_and_rollout.md`](case_study/06_risks_and_rollout.md) |
