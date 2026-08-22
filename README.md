@@ -57,7 +57,7 @@ The combined effect we're aiming at: **top-talent retention**, because the organ
 visibly recognizes and trusts judgment rather than waiting on it.
 
 *(These are the proposed, expected outcomes we're designing toward at this stage - not
-measured pilot results. See [`case-study/05-impact-and-metrics.md`](case-study/05-impact-and-metrics.md)
+measured pilot results. See [`case_study/05_impact_and_metrics.md`](case_study/05_impact_and_metrics.md)
 for how we'd validate them.)*
 
 ## Rollout Pathway
@@ -74,13 +74,13 @@ for how we'd validate them.)*
 
 ## Full Deliverable
 
-📄 **[Read the Round 3 submission](submissions/round-3-short-ppt/Axis_Calibre_Round3.pdf)** - the actual 2-slide pitch as submitted
+📄 **[Read the Round 3 submission](submissions/round_3_short_ppt/Axis_Calibre_Round3.pdf)** - the actual 2-slide pitch as submitted
 
 ## The Full Reasoning
 
 For the complete case - problem framing, alternatives we considered and ruled out,
 the operating model in detail, and our impact/validation logic - see
-[`/case-study`](case-study/).
+[`/case_study`](case_study/).
 
 ## About This Repository
 
@@ -90,7 +90,7 @@ of Vision, Strategic Relevance, Demonstrable Business Impact, Operating Model &
 Execution Feasibility, and Storytelling & Communication.
 
 This was a **2-member team** submission, consistent with the competition's team-size
-rules. See [`docs/contribution-notes.md`](docs/contribution-notes.md) for how the work
+rules. See [`docs/contribution_notes.md`](docs/contribution_notes.md) for how the work
 was split.
 
 Rounds progress over time - this repo is structured to hold each round's deliverable
