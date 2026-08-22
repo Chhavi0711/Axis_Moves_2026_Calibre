@@ -1,7 +1,7 @@
 # Round 3 - Short PPT Team Submission
 
 **Format required:** Maximum 2-slide presentation (excluding title slide), evaluated with
-the discipline expected in a Board or CEO review — clarity over detail.
+the discipline expected in a Board or CEO review - clarity over detail.
 
 ## What's in this deliverable
 
