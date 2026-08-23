@@ -15,5 +15,4 @@ the discipline expected in a Board or CEO review - clarity over detail.
 - [`Axis_Calibre_Round3.pdf`](Axis_Calibre_Round3.pdf) - the deck as submitted
 
 For the reasoning behind this deck - including what we considered and ruled out before
-landing on this framing - see [`/case-study`](../../case_study/) at the repo root.
-
+landing on this framing - see [`/case_study`](../../case_study/) at the repo root.
