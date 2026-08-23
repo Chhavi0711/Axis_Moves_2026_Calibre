@@ -38,15 +38,11 @@ that changes is *who gets asked first.*
 by a person, and still stays inside Axis's existing RBI-compliant sanctioning framework -
 governance and fairness are independently audited on top of it.
 
-![Decision Authority: Today vs 2035](assets/visuals/decision_authority_today_vs_2035.svg)
-
 ## How It Works
 
 A closed feedback loop, not a one-time reassignment:
 
 **Customer request → AI matches track record + capacity → best-suited person decides → outcome updates the record**
-
-![How Axis Calibre Works](assets/visuals/how_it_works_loop.svg)
 
 ## Why It Matters - and Why It Compounds
 
