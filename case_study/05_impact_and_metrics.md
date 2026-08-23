@@ -19,16 +19,25 @@ because the brief asks for business impact across dimensions like revenue, produ
 cost, risk, and employee experience - a single "speed" number wouldn't capture why this
 is a durable advantage rather than a one-time efficiency gain.
 
+These are our proprietary KPIs, and each is defined precisely rather than left as a
+general direction:
+
 | Stakeholder | Metric we'd track | What it captures |
 |---|---|---|
-| **Customer** | Speed to Decision | Time from request to a final, actionable decision |
-| **Axis (the Bank)** | Decision Quality Score | Whether cases are landing with the person statistically best placed to judge them |
-| **Employee** | Rising Talent Rate | How quickly strong judgment becomes visible and rewarded, independent of tenure |
-| **Organization** | Memory Reuse Rate | How much each decision's outcome improves the next match - i.e., whether institutional judgment is compounding rather than resetting with staff turnover |
+| **Customer** | Speed to Decision | How fast complex cases get resolved, end to end |
+| **Axis (the Bank)** | Decision Quality Score | How accurate those decisions turn out to be, adjusted for difficulty |
+| **Employee** | Rising Talent Rate | % of real discretionary authority held by employees who earned it early, not by tenure |
+| **Organization** | Institutional Memory Reuse (shorthand: "Memory Reuse Rate" in the short deck) | % of new complex cases solved using a past decision's captured reasoning |
 
-The combined effect we're arguing for is **top-talent retention** - people who feel
-their judgment is recognized and used, not gated behind a title, are less likely to
-leave for an organization that will let them decide sooner.
+Every KPI above ties back to one spine: speed and quality of decision-making move
+together, not against each other. We deliberately avoided inventing generic
+revenue/NPA percentages for effect - each of these five numbers only exists because
+this specific model exists, which is itself part of the pitch.
+
+The combined effect we're arguing for is a fifth KPI, **Top Talent Retention** -
+whether Axis's best young decision-makers are staying, now that being right outruns
+being senior. People who feel their judgment is recognized and used, not gated behind a
+title, are less likely to leave for an organization that will let them decide sooner.
 
 ## Baseline assumptions we'd want a pilot to test
 
