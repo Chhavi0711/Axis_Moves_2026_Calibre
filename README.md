@@ -35,8 +35,10 @@ it, regardless of rank. A 3-year Officer with a strong track record can out-earn
 that changes is *who gets asked first.*
 
 **AI recommends and routes cases. It never approves them.** Every decision is still made
-by a person, and still stays inside Axis's existing RBI-compliant sanctioning framework
+by a person, and still stays inside Axis's existing RBI-compliant sanctioning framework -
 governance and fairness are independently audited on top of it.
+
+![Decision Authority: Today vs 2035](assets/visuals/decision_authority_today_vs_2035.svg)
 
 ## How It Works
 
@@ -44,14 +46,16 @@ A closed feedback loop, not a one-time reassignment:
 
 **Customer request → AI matches track record + capacity → best-suited person decides → outcome updates the record**
 
+![How Axis Calibre Works](assets/visuals/how_it_works_loop.svg)
+
 ## Why It Matters - and Why It Compounds
 
 | Stakeholder | What changes |
 |---|---|
-| **Customer** | Speed to decision - same-day, because the right person was already on it, not because anything was rushed |
-| **Axis** | Decision Quality Score - the case reaches the person statistically best placed to judge it |
-| **Employee** | Rising Talent Rate - good judgment becomes visible and rewarded earlier in a career, not just after years of tenure |
-| **Organization** | Memory Reuse Rate - every outcome sharpens the next match, so institutional judgment compounds instead of retiring with each employee |
+| **Customer** | Speed to Decision - how fast complex cases get resolved, end to end |
+| **Axis** | Decision Quality Score - how accurate those decisions turn out to be, adjusted for difficulty |
+| **Employee** | Rising Talent Rate - % of real discretionary authority held by employees who earned it early, not by tenure |
+| **Organization** | Institutional Memory Reuse (called "Memory Reuse Rate" in the short deck) - % of new complex cases solved using a past decision's captured reasoning |
 
 The combined effect we're aiming at: **top-talent retention**, because the organization
 visibly recognizes and trusts judgment rather than waiting on it.
@@ -68,9 +72,13 @@ for how we'd validate them.)*
 
 ## Risks We've Named Up Front
 
-- **Gaming the system** → mitigated with difficulty-adjusted audits, so easy wins can't inflate a Calibre score
+- **Gaming the system** → difficulty-adjusted scoring, no case self-selection, mandatory case-mix diversity checks, and blind quarterly audits, so easy wins can't inflate a score
 - **Regulatory fit** → the model operates entirely inside Axis's existing RBI-compliant sanctioning grid; nothing about the approval framework itself changes
 - **Organizational resistance** → pay and titles are untouched; this changes *routing*, not compensation or hierarchy
+- **A well-calibrated employee still causing a large loss** → hard, board-approved risk ceilings exist independently of track record; calibration only expands discretion within them
+- **The system quietly drifting back to seniority-as-usual** → the Governance Committee runs a standing, published audit of whether Rising Talent Rate is genuinely shifting toward merit
+
+*(Full detail on each, including the six anti-gaming mechanisms, is in [`case_study/06_risks_and_rollout.md`](case_study/06_risks_and_rollout.md).)*
 
 ## Full Deliverable
 
@@ -79,8 +87,12 @@ for how we'd validate them.)*
 ## The Full Reasoning
 
 For the complete case - problem framing, alternatives we considered and ruled out,
-the operating model in detail, and our impact/validation logic - see
-[`/case_study`](case_study/).
+the operating model in detail, the calibration mechanics, and our impact/validation
+logic - see [`/case_study`](case_study/).
+
+For the team's own initial idea and prep documents (naming rationale, full calibration
+mechanics, judge-prep Q&A) that this case study is built from, see
+[`docs/prep_materials`](docs/prep_materials/).
 
 ## About This Repository
 
