@@ -44,3 +44,4 @@ Teams were explicitly told **not** to submit:
 | Operating model shown in practice (roles, processes, governance, adoption) | [`case_study/04_operating_model.md`](case_study/04_operating_model.md) |
 | Quantified business impact | [`case_study/05_impact_and_metrics.md`](case_study/05_impact_and_metrics.md) - framed honestly as projected, pilot-validated impact |
 | Risks and mitigations | [`case_study/06_risks_and_rollout.md`](case_study/06_risks_and_rollout.md) |
+| Calibration mechanics and anti-gaming detail | [`case_study/07_calibration_mechanics.md`](case_study/07_calibration_mechanics.md) |
